@@ -1,0 +1,23 @@
+{
+  "name": "mining-luck",
+  "version": "0.0.1",
+  "description": "bitcoin mining luck",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "keywords": [],
+  "author": "Mark Robson mark.o.robson@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roppa/luck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roppa/luck/issues"
+  },
+  "homepage": "https://github.com/roppa/luck#readme"
+}
